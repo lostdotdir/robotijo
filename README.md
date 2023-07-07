@@ -3,7 +3,7 @@ convertimos su botijo en un robot, lo llamamos robotijo
 
 
 ahem aegasmfdkofmdp
-tu mandar mensaje desde discord [mirar https://github.com/vergolini/tiebot]
+tu mandar mensaje desde discord [mirar (https://github.com/vergolini/mbot-control-remoto/blob/main/HEX%20EXPORT%20LED.PNG)]
 mensaje pasar por página web
 python lee página y pasar por serie a arduino
 arduino mostrar en  robot
